@@ -1,6 +1,6 @@
 /*Problem statement - https://www.codechef.com/problems/TRICOIN
-Solution C++
-I started off thinking about it as a pattern-finding problem, but then realized it was actually more about binary search and using the sum of n terms.
+Solution IN C++
+APPROACH: I started off thinking about it as a pattern-finding problem, but then realized it was actually more about binary search and using the sum of n terms.
 So, I decided to bring both ideas together in my code and using a mid variable for binary search while applying the summation logic. 
 That combination finally clicked and gave me the correct output, which led to an AC.
 */
